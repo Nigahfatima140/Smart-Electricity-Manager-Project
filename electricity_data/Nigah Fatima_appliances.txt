@@ -1,0 +1,5 @@
+Standard,Fan,40.0,5,3,true
+Standard,Light,15.0,8,2,true
+Heavy,AC,800.0,4,1,true
+Standard,Microwave,600.0,4,1,false
+Standard,Charger,12.0,4,1,true

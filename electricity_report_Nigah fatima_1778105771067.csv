@@ -1,0 +1,3 @@
+Appliance,Type,Wattage,Hours/Day,Room,Essential,Monthly Cost (PKR)
+Fan,Standard,30,8,bedroom,No,252.00
+AC,Standard,120,2,bedroom,Yes,252.00

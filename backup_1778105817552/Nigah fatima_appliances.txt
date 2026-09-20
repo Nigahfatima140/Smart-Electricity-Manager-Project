@@ -1,0 +1,2 @@
+Standard,Fan,30.0,8,bedroom,false
+Standard,AC,120.0,2,bedroom,true

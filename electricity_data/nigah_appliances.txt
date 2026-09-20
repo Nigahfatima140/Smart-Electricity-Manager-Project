@@ -1,0 +1,5 @@
+Standard,Fan,30.0,2,2,false
+Standard,refrigerator,150.0,20,1,false
+Standard,light,20.0,5,4,false
+Heavy,washing machine,500.0,2,1,true
+Intelligent,microwave,500.0,4,1,true

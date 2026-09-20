@@ -1,0 +1,1 @@
+Standard,AC,120.0,2,bedroom,true
